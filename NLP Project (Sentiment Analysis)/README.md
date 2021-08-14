@@ -1,1 +1,2 @@
-
+# Project 2: Sentiment Analysis
+This project is a sentiment analysis project for Arabic tweets. The dataset that is used is from KAUST and Lucidia. The training dataset contains 55000 tweets ( 8821 Positive, 8820 Negative, and 37359 Neutral) and the testing dataset contains 23256 tweets. I built a machine learning model to classify Arabic tweets with three sentiment labels (Positive, Negative or Neutral) by using R language.
