@@ -3,11 +3,11 @@
 This project will show you the exploration of dataset (Amazon Top 50 Bestselling Books 2009 - 2019). I got this dataset on Kaggle website. The exploration will be in a systematic way, a task that statisticians call exploratory data analysis.
 
 The Questions that I am generated about the dataset are:
-- Who is the author who got the highest rating from 2009 to 2019, and what is the book?
-- In each year, who is the author who got the highest rating, and what is the book?
+- Who is the author getting the highest rate from 2009 to 2019, and what is the book's name?
+- In each year, who is the author getting the highest rate, and what is the book's name?
 - Who is the author has written the most bestseller books from 2009 to 2019?
 - In each year, who is the author has written the most bestseller books?
 - Which book has the most reviews from 2009 to 2019?
 - In each year, which book has the most reviews?
-- Which genres become bestsellers more often?
-- In each year, which genres become bestsellers more often?
+- Which genre becomes bestsellers more often?
+- In each year, which genre becomes bestsellers more often?
