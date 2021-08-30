@@ -19,21 +19,29 @@ In this project, I used:
 ## 3. Result<a name="results"></a> 
 Here some results.
 
-[Report](https://app.powerbi.com/view?r=eyJrIjoiNWJkNGZiMjUtN2M2My00NzhhLTg3NzgtYTI1NTNkZjdjMDg0IiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9)
+<div>
+<p>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJkNGZiMjUtN2M2My00NzhhLTg3NzgtYTI1NTNkZjdjMDg0IiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9" target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/Open-PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+</p>
+</div>
+
+### Report
 ![dashboard Users overview](https://user-images.githubusercontent.com/68463439/131353088-a104c359-d0a7-4ff0-a8e1-c0fb9fd77c45.JPG)
 
 
 ![dashboard Users overview 2](https://user-images.githubusercontent.com/68463439/131353153-e011bc64-bba5-4eb7-b2fc-54fdd1342676.JPG)
 
+---
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" height = '40px' >](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing)<br/>
 
-[Filling missing data (first way):](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing) <br/>
+### Filling missing data (first way): <br/>
 ![fill missing data 1](https://user-images.githubusercontent.com/68463439/131353458-1bf02309-254a-4588-8e67-13a18096ae93.JPG)
 
 
 ![fill missing data 1 result](https://user-images.githubusercontent.com/68463439/131353477-63f433dc-26e3-4dca-aa86-147e369adfe3.JPG)
 
 
-[Filling missing data (second way):](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing) <br/>
+### Filling missing data (second way): <br/>
 ![fill missing data 2](https://user-images.githubusercontent.com/68463439/131353608-41a60281-ecfc-4cdf-806a-eb3ee750e21e.JPG)
 
 
