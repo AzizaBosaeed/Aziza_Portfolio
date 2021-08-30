@@ -28,22 +28,22 @@ In this project, I used Google Colab notebook (python language).
 ## 3. Result<a name="results"></a> 
 Here some results.
 
-**Questions**
+### Questions
 ---
 ![questions](https://user-images.githubusercontent.com/68463439/131341669-92f6e78c-1dfa-4da6-926f-62f24497e394.JPG)
 
 
-**Q2**
+### Q2
 ---
 ![q2](https://user-images.githubusercontent.com/68463439/131342107-66fd6dca-a69a-4c97-83e7-eb6b19546cf5.JPG)
 
 
-**Q3**
+### Q3
 ---
 ![q3](https://user-images.githubusercontent.com/68463439/131342178-51bc876a-57a5-459e-89c1-5ebebb2433ec.JPG)
 
 
-**Q4**
+### Q4
 ---
 ![q4](https://user-images.githubusercontent.com/68463439/131342200-377fe39f-b2b1-41a0-9c82-3a92f3597bea.JPG)
 
