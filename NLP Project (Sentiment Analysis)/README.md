@@ -9,7 +9,8 @@ This project is a sentiment analysis project for Arabic tweets. The dataset that
 
 
 ## 2. Implementation <a name="model"></a> 
-In this project, I used R Studio (R language).
+In this project, I used Microsoft Excel and R Studio (R language).
 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height = '40px' >
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height = '40px' >
 
