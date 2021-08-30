@@ -11,9 +11,9 @@ This project was requested by a company about users interested in free sample di
 
 ## 2. Implementation <a name="model"></a> 
 In this project, I used:
-* [Microsoft Excel to prepare the dataset by using power query.](https://github.com/AzizaBosaeed/Aziza_Portfolio/tree/main/Users%20Interested%20in%20Free%20Samples/Dataset)
-* [Microsoft Power BI to visualize an overview of the company users.]
-* [Google Colab notebook to fill missing data in two ways by using python language.](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing)
+* Microsoft Excel to prepare the dataset by using power query.
+* Microsoft Power BI to visualize an overview of the company users.
+* Google Colab notebook to fill missing data in two ways by using python language.
 
 
 ## 3. Result<a name="results"></a> 
@@ -26,14 +26,14 @@ Here some results.
 ![dashboard Users overview 2](https://user-images.githubusercontent.com/68463439/131353153-e011bc64-bba5-4eb7-b2fc-54fdd1342676.JPG)
 
 
-Filling missing data (first way): <br/>
+[Filling missing data (first way):](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing) <br/>
 ![fill missing data 1](https://user-images.githubusercontent.com/68463439/131353458-1bf02309-254a-4588-8e67-13a18096ae93.JPG)
 
 
 ![fill missing data 1 result](https://user-images.githubusercontent.com/68463439/131353477-63f433dc-26e3-4dca-aa86-147e369adfe3.JPG)
 
 
-Filling missing data (second way): <br/>
+[Filling missing data (second way):](https://colab.research.google.com/drive/1oA-lithnoyfqKOgd4uOGru5-PrYeYYKU?usp=sharing) <br/>
 ![fill missing data 2](https://user-images.githubusercontent.com/68463439/131353608-41a60281-ecfc-4cdf-806a-eb3ee750e21e.JPG)
 
 
