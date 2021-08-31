@@ -28,10 +28,11 @@ This repository is an Aziza's Portfolio. It is the place that she is publishing 
 ### 🛠️ Tools
 <div>
 <p >
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="104" height ="33"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="124" height ="33"></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" width="104" height ="33"></a>
 <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="R Studio" width="104" height ="33"></a>
 <a href="https://research.google.com/colaboratory/faq.html" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" width="104" height ="33"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Google Colab" width="134" height ="33"></a>
 </p>
 <br/>
 </div>
