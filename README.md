@@ -37,9 +37,10 @@ This repository is an Aziza's Portfolio. It is the place that she is publishing 
 <br/>
 </div>
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Contact Me
 <div>
 <p>
+<p> Thanks for reading, and feel free to reach out to me: </p>
 <a href="https://www.linkedin.com/in/aziza-bosaeed-3b156616a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aziza.bosaeed-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:aziza.bosaeed@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-aziza.bosaeed@outlook.com-blue?style=flat&logo=gmail"></a>
 </p>
